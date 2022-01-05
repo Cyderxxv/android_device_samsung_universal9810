@@ -13,8 +13,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
+#Build System
 BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 BUILD_BROKEN_DUP_SYSPROP := true
+BUILD_BROKEN_DUP_RULES := true
 
 COMMON_PATH := device/samsung/universal9810-common
 

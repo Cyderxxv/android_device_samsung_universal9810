@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+# Derp
+DERP_BUILDTYPE := Official
+
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # VNDK
