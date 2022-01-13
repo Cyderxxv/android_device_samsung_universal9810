@@ -30,7 +30,7 @@
     <bool translatable="false" name="config_wifi_revert_country_code_on_cellular_loss">true</bool>
 
     <!-- True if the firmware supports connected MAC randomization -->
-    <bool translatable="false" name="config_wifi_connected_mac_randomization_supported">true</bool>
+    <bool translatable="false" name="config_wifi_connected_mac_randomization_supported">false</bool>
 
     <!-- Enable WPA2 to WPA3 auto-upgrade -->
     <bool translatable="false" name="config_wifiSaeUpgradeEnabled">false</bool>
