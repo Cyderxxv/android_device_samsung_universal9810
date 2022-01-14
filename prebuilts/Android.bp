@@ -14,9 +14,9 @@
 // limitations under the License.
 
 android_app_import {
-    name: "CameraGo",
-    owner: "google",
-    apk: "CameraGo/CameraGo.apk",
+    name: "GrapheneCamera",
+    owner: "GrapheneOSTeam",
+    apk: "GrapheneCamera/Camera.apk",
     presigned: true,
     dex_preopt: {
         enabled: false,

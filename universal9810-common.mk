@@ -74,7 +74,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    CameraGo
+    GrapheneCamera
 
 # Net
 PRODUCT_PACKAGES += \
